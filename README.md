@@ -4,7 +4,7 @@ This GitHub repository is created with the purpose of sharing the scripts used f
 
 
 # SIKO dataset
-SIKO dataset is accessable at [HuggingFace hub]{https://huggingface.co/datasets/grayapple/SIKO}.
+SIKO dataset is accessable at [HuggingFace hub](https://huggingface.co/datasets/grayapple/SIKO})
 
 ```
 
